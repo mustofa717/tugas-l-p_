@@ -10,3 +10,14 @@
 section {
   padding-top: 5rem;
 }
+
+.project-img {
+  height: 200px;
+  object-fit: cover;
+}
+.display-4 {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  font-size: 3rem;
+  color: blue;
+}
